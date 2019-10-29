@@ -1,0 +1,15 @@
+apiVersion: v1
+name: cloudwatch-agent
+version: 0.0.1
+appVersion: 1.230621.0
+description: A CloudWatch Helm chart to collect Kubernetes Cluster Metrics
+home: https://github.com/aws-samples/amazon-cloudwatch-agent
+icon: ""
+keywords:
+- kubernetes
+- cloudwatch
+- monitoring
+maintainers:
+- name: s2504s
+  email: s2504s@gmail.com
+engine: gotpl
